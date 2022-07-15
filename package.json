@@ -1,0 +1,7 @@
+{
+    "name": "node",
+    "version": "1.0.0",
+    "devDependencies": {
+        "fs-extra": "^10.1.0"
+    }
+}
